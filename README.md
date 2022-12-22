@@ -10,10 +10,10 @@ pkg install git
 pkg install python
 ```
 ```bash
-git clone https://github.com/Fenrir-00/investigar-web
+git clone https://github.com/Fenrir-00/mazmorratx
 ```
 ```bash
-cd investigar-web
+cd mazmorratx
 ```
 ```bash
 python3 mazmorra.py
