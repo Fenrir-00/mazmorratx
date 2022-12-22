@@ -16,9 +16,7 @@ git clone https://github.com/Fenrir-00/investigar-web
 cd investigar-web
 ```
 ```bash
-python3 proyecto.py
+python3 mazmorra.py
 ```
 
-# uso por comandos 
 
-python proyecto.py -h
