@@ -239,7 +239,7 @@ def inicio():
  print(f"{color.verde}[1]JUGAR")
  print(f"{color.amarillo}[2]AYUDA")
  print(f"{color.rojo}[0]SALIR{color.fin}")
- eleccion = input(f"{color.cyan}ELIJE UN NUNERO >> {color.fin}")
+ eleccion = input(f"{color.cyan}ELIJE UN NUMERO >> {color.fin}")
  if eleccion == "1":
   tablero()
  elif eleccion == "2":
