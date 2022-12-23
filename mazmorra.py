@@ -583,14 +583,6 @@ dibujo2 ='''
 
 def dibujar(enemigo):
  os.system("clear")
-# if amigo.envenenado == True:
- # amigo.vida -=15
-# if amigo.quemado == True:
-#  amigo.vida -=15
-# if enemigo.envenenado == True:
-#  enemigo.vida -=15
-# if enemigo.quemado == True:
-#  enemigo.vida -=15
  if amigo.vida >=1000:
   amigo.vida= 999
  esp=str(amigo.vida)
