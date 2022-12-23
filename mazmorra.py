@@ -692,23 +692,4 @@ def dibujar(enemigo):
  print(dibujo)
 
 inicio()
-#esp=str(amigo.vida)
-#esp=len(espacio)
 
-#esp1=str(enemigo.vida)
-#esp1=len(esp1)
-dibujo3 ="""
-      .-.
-     (o.o)
-      |=|
-     __|__
-   //.=|=.\\
-  // .=|=. \\
-  \\ .=|=. //
-   \\(_=_)//
-    (:| |:)
-     || ||
-     () ()
-     || ||
-     || ||
-    ==' '== """
